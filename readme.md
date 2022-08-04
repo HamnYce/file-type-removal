@@ -7,7 +7,7 @@ Pre-requisites: Ruby
 
 Usage:
   1. place script in the parent directory (files from this directory will be removed too)
-  2. open terminal and run: 'ruby script.rb <file type>'. e.g. ruby script.rb json (to remove all json files)
+  2. open terminal and run: 'ruby script.rb \<file types>'. e.g. ruby script.rb json (to remove all json files)
 
 note: you can place multiple arguments seperated by a space to remove
 multiple file types in one call
